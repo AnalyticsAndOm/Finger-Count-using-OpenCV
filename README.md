@@ -36,7 +36,7 @@ The project aims to count the number of fingers inside a **region of interest (R
 
 ## Video Demonstration
 
-https://img.youtube.com/vi/Finger%20Count%202024-05-12%2015-58-18/0.jpg
+https://github.com/AnalyticsAndOm/Finger-Count-using-OpenCV/assets/159516312/14105a98-9322-442e-be69-ec84068b7bf4
 
 ## References
 
